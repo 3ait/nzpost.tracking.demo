@@ -47,8 +47,8 @@ public class TrackingNZPost {
 	}
 	
 	/**
-	 * 获取API
-	 * @return
+	 * GET tracking info
+	 * @return String
 	 * @throws JSONException
 	 * @throws IOException
 	 */
